@@ -1,0 +1,148 @@
+.navbar-inverse .brand {
+    color: #999;
+    display: none;
+}
+
+.jsenabled .usermenu .moodle-actionmenu .toggle-display.textmenu {
+    padding-left: 8px;
+    padding-right: 8px;
+    display: none;
+}
+
+.navbar .nav {
+    position: relative;
+    left: 0;
+    display: block;
+    float: right;
+    margin: 0 10px 0 0;
+}
+
+.navbar-inverse .navbar-inner {
+    background-color: #194C6C;
+    background-image: none;
+    border-color: #194C6C;
+}
+
+.navbar-inverse .brand, .navbar-inverse .nav>li>a {
+    color: #cacaca;
+    font-family: 'Open Sans',sans-serif;
+   font-size: 13px;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.nav-container {
+    width: 100%;
+    background-color: #FFF;
+	height: 70px;
+	margin: -32px 0 30px 0;
+    border-color: #dedede;
+    border-style: none none solid none ;
+    border-width: 2px;
+	
+}
+
+.bond-nav {
+    text-transform: uppercase;
+    padding: 0;
+    white-space: nowrap;
+    color: #cacaca;
+    font-weight: 500;
+    color: #444;
+    font-family: Raleway,sans-serif;
+    font-size: 13px;
+    letter-spacing: .07em;
+    float: right;
+    margin: 0 10% 0 0 ;
+    }
+
+.bond-nav li {
+    float: left;
+    list-style: none;
+    vertical-align: bottom;
+    text-align: center;
+    height: 70px;
+    background-color: #fff;
+    border-color: #dedede;
+    border-style: none solid;
+    border-width: 1px;
+    line-height: 85px;
+    padding: 0 40px;
+}
+
+.bond-nav li.first {
+	border: 0;
+}
+
+.bond-nav li.logo {
+    padding: 0;
+    border-left: 0;
+    
+}
+
+.bond-nav li.last {
+	border: none;
+}
+
+
+.bond-nav li img {
+height: 46px; 
+padding: 1px 40px 10px 0;
+}
+
+.page-context-header {
+    overflow: hidden;
+    display: none;
+}
+
+#region-main div h2 {display: none;}
+
+a {color: #194C6C;}
+
+#page.container-fluid {margin: -20px 0 -20px 0 !important}
+
+
+.navbar .nav {
+    margin: 0 10% 0 0;
+ }
+ 
+.nav li:nth-child(6) { 
+    background-color: #31698f;
+    color: #FFFFFF;
+}
+
+
+#region-main {
+    min-height: 20px;
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff !important;
+    border: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); */
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); */
+    background-color: #FFF;
+}
+
+#contentframe {
+	border: 0;
+    margin: -20px 0 0 0;
+}
+
+.coursebox {display: none;}
+
+#page-content {
+    margin: 20px 0 0 0 !important;
+}
+
+.fa {
+	padding: 0 0 0 5px;
+}
+
+.breadcrumb li:nth-child(3) {
+    display: none !important;
+}
+
+.breadcrumb li:nth-child(4) {
+    display: none !important;
+}
+
