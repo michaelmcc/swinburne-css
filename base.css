@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+.navbar-inverse .navbar-inner {
+background-color: #194C6C;
+background-image: none;
+border-color: #194C6C;
+display: none;
+}
+
+#cengage-nav {	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	background-color: #0089c5;
+	height: 80px;
+	padding: 20px 20px 0 20px;
+	margin: -60px 0 0 -10px;
+	}
+
+#logo  {float: left;}
+#logo img {width: 160px; padding: 0 0 0 15px;}
+
+.subnav ul {float: right; list-style: none; padding: 5px 0 0 0; }
+
+.subnav > ul > li {float: left; list-style-type: none; border-right: 1px solid #FFF; color:#FFF; line-height: 12px; padding:0 16px;}
+.subnav .nobdr {border: none;}
+.subnav > ul > li a {color:#FFF;}
+
+.breadcrumb li:nth-child(3) {
+    display: none;
+}
